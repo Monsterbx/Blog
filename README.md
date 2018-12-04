@@ -34,11 +34,25 @@ Webpack系列
 11.创建单个总应用包含多级小应用环境         
 
 
-Vue源码解析
+Vue源码解析         
+
 
 HTTP系列
 
 ES6系列
+1.let,const        
+2.Module（export，import）         
+3.箭头函数                                
+4.模版字符串                        
+5.解构赋值                      
+6.object.assign()           
+7.Set,Map               
+8.enties(),value(),key(),         
+9.symbol              
+10.Proxy            
+11.Promise          
+12.class类           
+
 
 
 js系列
