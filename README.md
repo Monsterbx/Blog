@@ -8,7 +8,7 @@
 2.1 vue之路由query        
 3.vue之computed        
 4.vue之watch           
-5.vue之基础组件写法       
+5.vue之组件基础：prop、slot、event               
 6.vue之高级组件        
 7.vue之组件通信之props和$emit        
 8.vue之组件通信之事件中心bus      
