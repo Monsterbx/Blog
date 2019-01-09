@@ -18,7 +18,8 @@
 12.vue之组件通信之 vuex       
 13.vue之render      
 14.vue之 slot      
-15.vue之keep-alive      
+15.vue之keep-alive          
+16.路由带参数query和params的区别          
 
 ## Webpack系列      
 1.webapck之单文件打包        
