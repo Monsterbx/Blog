@@ -19,7 +19,14 @@
 13.vue之render      
 14.vue之 slot      
 15.vue之keep-alive          
-16.路由带参数query和params的区别          
+16.路由带参数query和params的区别     
+17.导航守卫       
+18.vue之ref
+### Nuxt.js的使用
+
+##  Vue框架组件分析       
+1.iview     
+2.vux   
 
 ## Webpack系列      
 1.webapck之单文件打包        
@@ -30,9 +37,13 @@
 6.build和config文件夹下的各个文件分析        
 7.自定义文件代替dev.env.js        
 8.npm run dev 启动单文件、多文件      
-9.分析vue-cli脚手架         
-10.webpack自定义前端开发环境        
-11.创建单个总应用包含多级小应用环境         
+9.分析vue-cli 2.9脚手架 
+10.分析vue-cli 3.0脚手架        
+11.创建属于自己的vue-cli     
+12.webpack自定义前端开发包环境        
+13.实践：创建单个总应用包含多级小应用开发包环境
+
+
 
 ## ES6系列             
 1.let,const        
@@ -86,13 +97,17 @@
 13.如何监控网页卡顿     
 14.如何监控网页崩溃       
 15.如何解决网页的卡顿和崩溃           
-16.记美团网页首帧优化(优化白屏问题)        
-17.前端性能 
-
-nbvcx/分析：1.window.performance
+16.记美团网页首帧优化(优化白屏问题)            
+17.前端性能分析：1.window.performance          
+18.页面分享快照生成       
+19.在线选座     
+20.常见
+  
+ 
 
 
 ## 前端面试系列
+
 
 ## 数据结构系列       
 1.三种排序方式        
