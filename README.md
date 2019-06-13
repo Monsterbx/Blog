@@ -2,13 +2,13 @@
 
 个人学习记录 （三人行，必有我师焉）
 
-##框架通识（学习YCK大佬）
+## 框架通识（学习YCK大佬）
 1.路由原理         
 2.Virtual Dom      
 3.MVVM的实现原理
  
 
-## React系列    
+## React系列（只是罗列相关知识点，并无相关介绍）       
 1.JSX与元素的简介    
 2.搭建React项目的两种方式    
 3.组件与render()   
@@ -28,12 +28,15 @@
 17.组件的参数验证      
 18.props.children和容器类组件     
 
-## Redux系列      
+## Redux      
 
 
-##  
+## umi    
 
-## Vue的Api系列     
+## Dva
+
+
+## Vue的Api系列（只是罗列相关知识点，并无相关介绍）           
 1.vue之生命周期   
 2.vue之路由        
 2.1 vue之路由query        
@@ -70,22 +73,6 @@
 12.webpack自定义前端开发包环境                 
 13.实践：创建单个总应用包含多级小应用开发包环境  
 14.用webpack从零搭建React项目    
-
-
-## ES6系列             
-1.let,const        
-2.Module（export，import）         
-3.箭头函数                                
-4.模版字符串                        
-5.解构赋值                      
-6.object.assign()           
-7.Set,Map               
-8.enties(),value(),key(),         
-9.symbol              
-10.Proxy            
-11.Promise          
-12.class类           
-13.async和await   
 
 
 ## js系列          
@@ -162,13 +149,8 @@
 4.服务器压力测试       
 5.数据埋点   
  
- 
-##  Vue源码解析
-
-###  Nuxt.js的使用
-
 ##  前端面试系列      
-1.
+
 
 
 ## License
