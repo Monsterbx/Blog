@@ -7,6 +7,10 @@
 2.Virtual Dom      
 3.MVVM的实现原理
  
+## 浏览器    
+1.Event Loop     
+2.渲染机制
+
 
 ## React系列（只是罗列相关知识点，并无相关介绍）       
 1.JSX与元素的简介    
